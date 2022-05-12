@@ -1,4 +1,4 @@
-Hackathon IA - Isep - Sujet Environnement
+Hackathon IA - Isep - Sujet Développement Durable
 ==============================
 
 Vous trouverrez ici un boilerplate (template) pour le sujet Environnement proposé par l'AFD et l'UNEP lors du Hackathon IA organisé à l'Isep de 13 au 15 mai 2022.
