@@ -27,6 +27,7 @@ Liens utiles
 - <p><small><a target="_blank" href="http://sdg.iisd.org/">SDG Knowledge Hub | Daily SDG News | IISD</a></small></p>
 
 Comment utiliser ce template ?
+------------
 ```shell
 # Git
 git clone https://github.com/Garage-ISEP/hackathon-ia-developpement-durable
