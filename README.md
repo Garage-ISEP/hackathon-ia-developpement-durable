@@ -8,8 +8,12 @@ Vous trouverrez ici un boilerplate (template) pour le sujet Environnement propos
 ```
 
 Comment utiliser ce template ?
-```
+```shell
+# Git
+git clone https://github.com/Garage-ISEP/hackathon-ia-environnement
+# GitHub CLI
 gh repo create votre-repo -p Garage-ISEP/hackathon-ia-environnement
+gh repo clone votre-repo
 ```
 
 Project Organization
