@@ -3,16 +3,35 @@ Hackathon IA - Isep - Sujet Environnement
 
 Vous trouverrez ici un boilerplate (template) pour le sujet Environnement proposé par l'AFD et l'UNEP lors du Hackathon IA organisé à l'Isep de 13 au 15 mai 2022.
 
-```diff
-+ Les données fournies par les sponsors du sujet se trouvent dans data/raw.
-```
+Ressources
+------------
+
+| Fichier | Description |
+| --- | ----------- |
+| data/raw/* | Données fournis par l'AFD et le PNUE |
+| Note explicative Prospecteur ODD.pdf | Une note descriptive du Prospecteur ODD développé par l’AFD |
+| data/external/* | Un corpus de descriptions de projets de la Banque Mondiale. Ces projets ont été sélectionnés pour leur pertinence au regard des ODD 12,15 et 16. Ils peuvent permettre aux équipes les plus avancées de tester leur modèle |
+
+Liens utiles
+------------
+> Ce document recense un ensemble de sites internet relatifs aux ODD. Les participant.e.s sont susceptibles d’y trouver des informations utiles pour mieux comprendre l’Agenda 2030, constituer une base d’apprentissage, tester les performances de leur modèle etc.
+### Exemples d’outils similaires au SDG Meter / ODD Prospecteur
+- <p><small><a target="_blank" href="https://osdg.ai/">OSDG</a> (Programme des Nations Unies pour le Développement)</small></p>
+- <p><small><a target="_blank" href="https://knowsdgs.jrc.ec.europa.eu/sdgmapper">SDG Mapper</a> (Commission Européenne)</small></p>
+- <p><small><a target="_blank" href="https://linkedsdg.officialstatistics.org/#/">Linked SDGs</a> (UN DESA)</small></p>
+
+### Ressources relatives aux ODD
+- <p><small>UN DESA SDG description: <a target="_blank" href="https://sdgs.un.org/goals">THE 17 GOALS | Sustainable Development (un.org)</a></small></p>
+- <p><small>UNBIS Thesaurus: <a target="_blank" href="http://metadata.un.org/thesaurus/categories?lang=en">Home | UNBIS Thesaurus </a></small></p>
+- <p><small><a target="_blank" href="https://unstats.un.org/SDGAPI/swagger/">UN SDGs API</a></small></p>
+- <p><small><a target="_blank" href="http://sdg.iisd.org/">SDG Knowledge Hub | Daily SDG News | IISD</a></small></p>
 
 Comment utiliser ce template ?
 ```shell
 # Git
-git clone https://github.com/Garage-ISEP/hackathon-ia-environnement
+git clone https://github.com/Garage-ISEP/hackathon-ia-developpement-durable
 # GitHub CLI
-gh repo create votre-repo -p Garage-ISEP/hackathon-ia-environnement
+gh repo create votre-repo -p Garage-ISEP/hackathon-ia-developpement-durable
 gh repo clone votre-repo
 ```
 
