@@ -3,6 +3,15 @@ Hackathon IA - Isep - Sujet Environnement
 
 Vous trouverrez ici un boilerplate (template) pour le sujet Environnement proposé par l'AFD et l'UNEP lors du Hackathon IA organisé à l'Isep de 13 au 15 mai 2022.
 
+```diff
++ Les données fournies par les sponsors du sujet se trouvent dans data/raw.
+```
+
+Comment utiliser ce template ?
+```
+gh repo create votre-repo -p Garage-ISEP/hackathon-ia-environnement
+```
+
 Project Organization
 ------------
 
