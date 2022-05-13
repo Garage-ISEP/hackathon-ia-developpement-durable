@@ -10,6 +10,7 @@ Ressources
 | --- | ----------- |
 | Présentation Challenge PNUE AFD.pdf | Présentation du challenge (critères d'évaluation, ressources, context, etc.) |
 | data/raw/* | Données fournis par l'AFD et le PNUE |
+| data/raw/afd_snaps_labeled_cibles.xlsx | ce document est composé de snaps labélisés manuellement sur chacune des cibles |
 | Note explicative Prospecteur ODD.pdf | Une note descriptive du Prospecteur ODD développé par l’AFD |
 | data/external/* | Un corpus de descriptions de projets de la Banque Mondiale. Ces projets ont été sélectionnés pour leur pertinence au regard des ODD 12,15 et 16. Ils peuvent permettre aux équipes les plus avancées de tester leur modèle |
 | Guide Cloud 3DS OUTSCALE.pdf | Guide d'utilisation et ressoruces du Cloud 3DS OUTSCALE |
