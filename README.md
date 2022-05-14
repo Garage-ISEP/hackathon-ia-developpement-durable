@@ -31,7 +31,7 @@ Liens utiles
 - <p><small><a target="_blank" href="https://unstats.un.org/SDGAPI/swagger/">UN SDGs API</a></small></p>
 - <p><small><a target="_blank" href="http://sdg.iisd.org/">SDG Knowledge Hub | Daily SDG News | IISD</a></small></p>
 
-### Détails de la méthodes SDG meter
+### Détails de la méthode SDG meter
 - <p><small><a target="_blank" href="https://docs.google.com/presentation/d/13dDvA9bzsySTXv3Qp1gXvEnGijLTwBzN/edit?usp=sharing&ouid=109488321266475928167&rtpof=true&sd=true">Présentation 1 du SDG meter</a></small></p>
 - <p><small><a target="_blank" href="https://docs.google.com/presentation/d/1yUyKbi0vsIJYJHyxUiUK9A_4NhZMTZfu/edit?usp=sharing&ouid=109488321266475928167&rtpof=true&sd=true">Présentation 2 du SDG meter</a></small></p>
 
