@@ -32,8 +32,8 @@ Liens utiles
 - <p><small><a target="_blank" href="http://sdg.iisd.org/">SDG Knowledge Hub | Daily SDG News | IISD</a></small></p>
 
 ### Détails de la méthodes SDG meter
-- <p><small><a target="_blank" href="https://iseparis-my.sharepoint.com/:p:/g/personal/huri60183_eleve_isep_fr/Ef3rawcMrlJAm3kpx5a5W4QBnJTD88uISJhL7_tWW3oQIQ?e=cN8Pyt">Présentation 1 du SG meter</a></small></p>
-- <p><small><a target="_blank" href="https://iseparis-my.sharepoint.com/:p:/g/personal/huri60183_eleve_isep_fr/EV3jZDf3FltFtFEsHoNbD9kBND7BPtV5Bv2asjwyEgu5FQ?e=hLIm4z">Présentation 2 du SG meter</a></small></p>
+- <p><small><a target="_blank" href="https://iseparis-my.sharepoint.com/:p:/g/personal/huri60183_eleve_isep_fr/Ef3rawcMrlJAm3kpx5a5W4QBnJTD88uISJhL7_tWW3oQIQ?e=cN8Pyt">Présentation 1 du SDG meter</a></small></p>
+- <p><small><a target="_blank" href="https://iseparis-my.sharepoint.com/:p:/g/personal/huri60183_eleve_isep_fr/EV3jZDf3FltFtFEsHoNbD9kBND7BPtV5Bv2asjwyEgu5FQ?e=hLIm4z">Présentation 2 du SDG meter</a></small></p>
 
 Comment utiliser ce template ?
 ------------
