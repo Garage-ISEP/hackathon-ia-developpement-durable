@@ -22,6 +22,8 @@ Liens utiles
 - <p><small><a target="_blank" href="https://osdg.ai/">OSDG</a> (Programme des Nations Unies pour le Développement)</small></p>
 - <p><small><a target="_blank" href="https://knowsdgs.jrc.ec.europa.eu/sdgmapper">SDG Mapper</a> (Commission Européenne)</small></p>
 - <p><small><a target="_blank" href="https://linkedsdg.officialstatistics.org/#/">Linked SDGs</a> (UN DESA)</small></p>
+- <p><small><a target="_blank" href="https://iseparis-my.sharepoint.com/:p:/g/personal/huri60183_eleve_isep_fr/Ef3rawcMrlJAm3kpx5a5W4QBnJTD88uISJhL7_tWW3oQIQ?e=cN8Pyt">Présentation 1 du SG meter</a></small></p>
+- <p><small><a target="_blank" href="https://iseparis-my.sharepoint.com/:p:/g/personal/huri60183_eleve_isep_fr/EV3jZDf3FltFtFEsHoNbD9kBND7BPtV5Bv2asjwyEgu5FQ?e=hLIm4z">Présentation 2 du SG meter</a></small></p>
 
 ### Ressources relatives aux ODD
 - <p><small>UN DESA SDG description: <a target="_blank" href="https://sdgs.un.org/goals">THE 17 GOALS | Sustainable Development (un.org)</a></small></p>
